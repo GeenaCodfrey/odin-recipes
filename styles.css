@@ -1,0 +1,51 @@
+body {
+    background-color: #CB8A2D;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#container {
+    width: 400px;
+    height: auto;
+    text-align: center;
+    background-color: #DDDDDE;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.recipes {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: #90b274;
+}
+
+a:hover {
+    color: #000;
+}
+
+a.website-name {
+    font-family: 'Lobster', Calibri, sans-serif;
+    font-size: 60px;
+    color: #f64900;
+}
+
+a.website-name:hover {
+    color: #000;
+}
+
+h1 {
+    margin: 0;
+}
